@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi 👋
+
+###I'm `Rafael Gomes`, a web developer...
+
+* I have a Bachelor degree in Computer Science.
+* 3 years with experience with web development.
+* HTML | CSS | SCSS | JS | NODE JS | ANGULAR | REACT 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rafaelgcaldas/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/rafaelgcaldas)
 
 <!--
 **rafaelgcaldas/rafaelgcaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
