@@ -1,6 +1,6 @@
 ## Hi 👋
 
-###I'm `Rafael Gomes`, a web developer...
+### I'm `Rafael Gomes`, a web developer...
 
 * I have a Bachelor degree in Computer Science.
 * 3 years with experience with web development.
