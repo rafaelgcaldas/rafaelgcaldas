@@ -6,7 +6,7 @@
 * 3 years with experience with web development.
 * HTML | CSS | SCSS | JS | NODE JS | ANGULAR | REACT 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rafaelgcaldas/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rafaelgcaldas/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/rafaelgcaldas)
 
