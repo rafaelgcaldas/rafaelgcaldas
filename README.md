@@ -6,7 +6,9 @@
 
 * I have a Bachelor degree in Computer Science.
 * 3 years with experience with web development.
-* `HTML | CSS | SCSS | JAVASCRIPT | NODE JS | ANGULAR | REACT`
+* `HTML | CSS | SCSS | JAVASCRIPT | ANGULAR | REACT | GIT`
+* Studying `NODE.JS`
+* Getting to know the mobile universe `FLUTTER` and `REACT NATIVE`
 
 <hr>
 
