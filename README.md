@@ -1,6 +1,5 @@
 # Hi 👋
 
-![](https://komarev.com/ghpvc/?username=rafaelgcaldas&style=flat)
 
 ## I'm `Rafael Gomes`, a web developer... 
 
