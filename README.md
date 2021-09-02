@@ -4,7 +4,7 @@
 ## I'm `Rafael Gomes`, a web developer... 
 
 * I have a Bachelor degree in Computer Science.
-* 3 years with experience with web development.
+* +3 years with experience with web development.
 * `HTML | CSS | SCSS | JAVASCRIPT | ANGULAR | REACT | GIT`
 * Studying `NODE.JS`
 * Getting to know the mobile universe `Next.js` and `REACT NATIVE`
