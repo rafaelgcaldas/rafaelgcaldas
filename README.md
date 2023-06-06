@@ -7,7 +7,7 @@
 * +3 years with experience with web development.
 * `HTML | CSS | SCSS | JAVASCRIPT | ANGULAR | REACT | GIT`
 * Studying `NODE.JS` and `Next.js`
-* Getting to know the mobile universe `Flutter` and `REACT NATIVE`
+* Getting to know the mobile universe with  `REACT NATIVE`
 
 <hr>
 
